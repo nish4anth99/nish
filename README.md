@@ -1,3 +1,3 @@
 # nish
 nish
-this is readme_edit's text
+this is readme-edit's text
